@@ -11,7 +11,7 @@ The included notebooks build upon each other in the following order and cover th
 
 ## Data
 
-The data sets used in the `Interactive-Ripser-Workshop.ipynb` are located in the `data` folder.
+The data sets used in the `Interactive-Ripser-Workshop.ipynb` are located in the `data` folder.<br><br>
 **Note**: To download the `Bailarina02_Repaired.stl` file used in the `Interactive-Ripser-Workshop.ipynb`, please do to https://www.thingiverse.com/thing:2679412/files and select the tab named `Files`, from there you will be able to download the required `stl` file.
 
 ## References and further reading
