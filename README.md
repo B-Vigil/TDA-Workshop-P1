@@ -6,8 +6,8 @@ This workshop provides a brief introduction to the theory of TDA as well as comp
 
 The included notebooks build upon each other in the following order and cover these topics:
 
-* Brief introduction to Python as it pertains to the workshop -- `Intro-To-Python.ipynb`
-* Introduction to Topological Data Analysis and Ripser -- `Interactive-Ripser-Workshop.ipynb`
+* Brief introduction to Python as it pertains to the workshop -- `Introduction_To_Python.ipynb`
+* Introduction to Topological Data Analysis and Ripser -- `Interactive_Ripser_Workshop.ipynb`
 
 ## Data
 
